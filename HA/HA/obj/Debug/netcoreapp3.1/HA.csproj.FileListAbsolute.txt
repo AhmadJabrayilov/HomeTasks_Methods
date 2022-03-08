@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\Hometask_methods\HA\HA\bin\Debug\netcoreapp3.1\HA.exe
+C:\Users\User\Desktop\Hometask_methods\HA\HA\bin\Debug\netcoreapp3.1\HA.deps.json
+C:\Users\User\Desktop\Hometask_methods\HA\HA\bin\Debug\netcoreapp3.1\HA.runtimeconfig.json
+C:\Users\User\Desktop\Hometask_methods\HA\HA\bin\Debug\netcoreapp3.1\HA.runtimeconfig.dev.json
+C:\Users\User\Desktop\Hometask_methods\HA\HA\bin\Debug\netcoreapp3.1\HA.dll
+C:\Users\User\Desktop\Hometask_methods\HA\HA\bin\Debug\netcoreapp3.1\HA.pdb
+C:\Users\User\Desktop\Hometask_methods\HA\HA\obj\Debug\netcoreapp3.1\HA.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Hometask_methods\HA\HA\obj\Debug\netcoreapp3.1\HA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Hometask_methods\HA\HA\obj\Debug\netcoreapp3.1\HA.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Hometask_methods\HA\HA\obj\Debug\netcoreapp3.1\HA.AssemblyInfo.cs
+C:\Users\User\Desktop\Hometask_methods\HA\HA\obj\Debug\netcoreapp3.1\HA.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Hometask_methods\HA\HA\obj\Debug\netcoreapp3.1\HA.dll
+C:\Users\User\Desktop\Hometask_methods\HA\HA\obj\Debug\netcoreapp3.1\HA.pdb
+C:\Users\User\Desktop\Hometask_methods\HA\HA\obj\Debug\netcoreapp3.1\HA.genruntimeconfig.cache

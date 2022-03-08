@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\Hometask_methods\sum_n\sum_n\bin\Debug\netcoreapp3.1\sum_n.exe
+C:\Users\User\Desktop\Hometask_methods\sum_n\sum_n\bin\Debug\netcoreapp3.1\sum_n.deps.json
+C:\Users\User\Desktop\Hometask_methods\sum_n\sum_n\bin\Debug\netcoreapp3.1\sum_n.runtimeconfig.json
+C:\Users\User\Desktop\Hometask_methods\sum_n\sum_n\bin\Debug\netcoreapp3.1\sum_n.runtimeconfig.dev.json
+C:\Users\User\Desktop\Hometask_methods\sum_n\sum_n\bin\Debug\netcoreapp3.1\sum_n.dll
+C:\Users\User\Desktop\Hometask_methods\sum_n\sum_n\bin\Debug\netcoreapp3.1\sum_n.pdb
+C:\Users\User\Desktop\Hometask_methods\sum_n\sum_n\obj\Debug\netcoreapp3.1\sum_n.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Hometask_methods\sum_n\sum_n\obj\Debug\netcoreapp3.1\sum_n.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Hometask_methods\sum_n\sum_n\obj\Debug\netcoreapp3.1\sum_n.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Hometask_methods\sum_n\sum_n\obj\Debug\netcoreapp3.1\sum_n.AssemblyInfo.cs
+C:\Users\User\Desktop\Hometask_methods\sum_n\sum_n\obj\Debug\netcoreapp3.1\sum_n.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Hometask_methods\sum_n\sum_n\obj\Debug\netcoreapp3.1\sum_n.dll
+C:\Users\User\Desktop\Hometask_methods\sum_n\sum_n\obj\Debug\netcoreapp3.1\sum_n.pdb
+C:\Users\User\Desktop\Hometask_methods\sum_n\sum_n\obj\Debug\netcoreapp3.1\sum_n.genruntimeconfig.cache
